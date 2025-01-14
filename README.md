@@ -20,8 +20,8 @@ The project integrates hardware and software, including custom PCB designs, firm
 
 ## Repository Structure
 -**Code:**
--[Car](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/blob/main/dual-control%20car/car/code/src/main.cpp).
--[Remote](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/blob/main/dual-control%20car/remote/remotevscode/src/main.cpp).
+- [Car](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/blob/main/dual-control%20car/car/code/src/main.cpp).
+- [Remote](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/blob/main/dual-control%20car/remote/remotevscode/src/main.cpp).
 ## Getting Started
 Follow these steps to set up and run the mobile robot:
 
@@ -39,6 +39,6 @@ Follow these steps to set up and run the mobile robot:
    [Dual-Mode Control Car Repository](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car)
 
 ### Video Demo
--[Video Here](https://youtu.be/TzDKLDsIgCA)
--[Image](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/tree/main/dual-control%20car/Image)
+- [Video Here](https://youtu.be/TzDKLDsIgCA)
+- [Image](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/tree/main/dual-control%20car/Image)
 
