@@ -19,7 +19,7 @@ The project integrates hardware and software, including custom PCB designs, firm
 .
 
 ## Repository Structure
-
+MobileRobotProject/ ├── README.md # Project documentation ├── VSCode/ # Source code for firmware │ ├── main.cpp # Main logic for the robot │ ├── config.h # Configuration and constants ├── Altium/ # PCB and schematic design files │ ├── Schematic/ # Schematic diagrams │ ├── PCB/ # PCB layouts ├── Videos/ # Demonstration videos │ ├── demo.mp4 # Demo video showcasing the robot ├── LICENSE # Project license
 ## Getting Started
 Follow these steps to set up and run the mobile robot:
 
