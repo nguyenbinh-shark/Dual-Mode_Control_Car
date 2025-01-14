@@ -15,7 +15,8 @@ The project integrates hardware and software, including custom PCB designs, firm
 - **Firmware Development:** C++ code for microcontroller logic and sensor integration.
 - **Line-Following Capability:** Autonomous mode utilizes sensors for path tracking.
 - **Real-Time Control:** Smooth operation with quick response to commands.
-- **Demo Video:** Watch the robot in action.
+- **Demo Video:** Watch the robot in action [Here](https://youtu.be/TzDKLDsIgCA)
+.
 
 ## Repository Structure
 
@@ -36,6 +37,6 @@ Follow these steps to set up and run the mobile robot:
    [Dual-Mode Control Car Repository](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car)
 
 ### Video Demo
-[Video Here](https://youtu.be/TzDKLDsIgCA)
-[Image](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/tree/main/dual-control%20car/Image)
+-[Video Here](https://youtu.be/TzDKLDsIgCA)
+-[Image](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/tree/main/dual-control%20car/Image)
 
