@@ -1,6 +1,6 @@
 # Mobile Robot with Dual Control Modes 🤖🚗
 
-This repository contains the resources and files for a mobile robot platform that can be controlled via a remote or autonomously navigate along a predefined path.
+A robot based on a mobile robot platform can be controlled remotely or autonomously by following a predefined path.
 
 ## Project Overview
 This project aims to build a versatile mobile robot capable of two control modes:
@@ -18,3 +18,21 @@ The project integrates hardware and software, including custom PCB designs, firm
 - **Demo Video:** Watch the robot in action.
 
 ## Repository Structure
+
+## Getting Started
+Follow these steps to set up and run the mobile robot:
+
+### Prerequisites
+- **Hardware:**
+  - A compatible microcontroller (e.g., ESP32, Arduino, ,ESP8266...).
+  - Sensors for line-following (e.g., IR sensors, LDR...).
+  - Motor driver and actuators.
+- **Software:**
+  - [Altium Designer](https://www.altium.com/) for viewing PCB designs.
+  - [VS Code](https://code.visualstudio.com/) for firmware editing and debugging.
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<nguyenbinh-shark>/<Dual-Mode_Control_Car>.git
+   cd <dual-control car>
