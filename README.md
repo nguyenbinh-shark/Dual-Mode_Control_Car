@@ -19,7 +19,9 @@ The project integrates hardware and software, including custom PCB designs, firm
 .
 
 ## Repository Structure
-MobileRobotProject/ ├── README.md # Project documentation ├── VSCode/ # Source code for firmware │ ├── main.cpp # Main logic for the robot │ ├── config.h # Configuration and constants ├── Altium/ # PCB and schematic design files │ ├── Schematic/ # Schematic diagrams │ ├── PCB/ # PCB layouts ├── Videos/ # Demonstration videos │ ├── demo.mp4 # Demo video showcasing the robot ├── LICENSE # Project license
+-**Code:**
+-[Car]([https://youtu.be/TzDKLDsIgCA](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/blob/main/dual-control%20car/car/code/src/main.cpp))
+-[Remote]([https://youtu.be/TzDKLDsIgCA](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/blob/main/dual-control%20car/remote/remotevscode/src/main.cpp))
 ## Getting Started
 Follow these steps to set up and run the mobile robot:
 
