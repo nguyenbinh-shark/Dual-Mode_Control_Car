@@ -36,4 +36,6 @@ Follow these steps to set up and run the mobile robot:
    [Dual-Mode Control Car Repository](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car)
 
 ### Video Demo
-[Here](https://youtu.be/TzDKLDsIgCA)
+[Video Here](https://youtu.be/TzDKLDsIgCA)
+[Image](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car/tree/main/dual-control%20car/Image)
+
