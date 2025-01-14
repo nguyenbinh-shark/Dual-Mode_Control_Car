@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../car/code"
+		},
+		{
+			"name": "remotevscode",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
