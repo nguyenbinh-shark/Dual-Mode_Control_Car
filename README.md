@@ -33,6 +33,5 @@ Follow these steps to set up and run the mobile robot:
 
 ### Installation
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/<nguyenbinh-shark>/<Dual-Mode_Control_Car>.git
-   cd <dual-control car>
+   [Dual-Mode Control Car Repository](https://github.com/nguyenbinh-shark/Dual-Mode_Control_Car)
+
